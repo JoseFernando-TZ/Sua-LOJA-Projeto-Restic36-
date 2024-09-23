@@ -1,4 +1,9 @@
 # SuaLOJA
+Olá professor...
+
+o site tá bem imcompleto pois apareceram erros inexplicáveis e eu me bati pra tentar resolver porém os erros eram tipo: "o arquivo app.config.ts nao pode ser encontrado" sendo que ele tava lá, e ou também, "erro de sintaxe no appConfig" sendo que a função estava escrita corretamente.
+
+urilizei o CMD e o visual studio code para fazer(ou pelo menos tentar) um site de venda de produtos.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5.
 
